@@ -7,5 +7,3 @@ Chiffre mit eigener Zuordnungstabelle
 Vigenere-Verschluesselungsmethoden
 WPA - Verschlüsselung
 RSA - Verschlüsselung
-
-Test
