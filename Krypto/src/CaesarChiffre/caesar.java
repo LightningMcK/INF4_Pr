@@ -1,7 +1,7 @@
 package CaesarChiffre;
 import java.util.Scanner;
 
-public class CaesarChiffre {
+public class caesar {
 	static String encode(int k, String s) {
 
 		int len = s.length();
